@@ -12,7 +12,7 @@
 
 |       | 주제                                                        | 김영환 | 유일권 | 최주희 |
 | :---- | ----------------------------------------------------------- | :----: | :----: | :----: |
-| 03/04 | 아이템01.생성자 대신 정적 팩터리 메서드를 고려하라          |        |        |    [⭕️](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C01_%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md) |     |     |
+| 03/04 | 아이템01.생성자 대신 정적 팩터리 메서드를 고려하라          |        |        |    [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C01_%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md) |     |     |
 | 03/04 | 아이템02.생성자에 매개변수가 많다면 빌더를 고려하라         |        |        |        |     |     |
 | 03/04 | 아이템03.private 생성자나 열거 타입으로 싱글턴임을 보증하라 |        |        |        |     |     |
 
