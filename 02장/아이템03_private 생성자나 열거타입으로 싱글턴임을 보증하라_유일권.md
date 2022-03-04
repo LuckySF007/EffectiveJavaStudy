@@ -51,7 +51,7 @@ public class Elvis {
 모든 인스턴스 필드에 `transient`를 선언하고, `readResolve`메서드를 제공해야 역직렬할때마다 새로운 인스턴스가 생성된다.
 ```java
 public Object readResolve(){
-    // '진짜' Elvis를 반환하고, 가짜 Elvis는 가비지 컬렉터에 맏긴다.
+    // '진짜' Elvis를 반환하고, 가짜 Elvis는 가비지 컬렉터에 맡긴다.
     return INSTANCE;
 }
 ```
