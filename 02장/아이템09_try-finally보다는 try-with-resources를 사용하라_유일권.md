@@ -1,4 +1,4 @@
-# ITEM 08. **try-finally 보다는 try-with-resources를 사용하라.**
+# ITEM 09. **try-finally 보다는 try-with-resources를 사용하라.**
 
 자바에는 `close`메서드를 통해 직접 닫아줘야하는 자원들이 많다.  
 이는 클라이언트가 놓치기 쉬워 예측못한 성능 문제로 이어지는 경우도 있다. 이런 자원들 중 상당수가 안전망으로 `finalizer`를 활용하고는 있지만, 그리 믿을만 하지 못하다.(Item 08)  
