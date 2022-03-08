@@ -21,6 +21,9 @@
 | 03/07 | 07. 다 쓴 객체 참조를 해제하라 | [😀](https://bit.ly/3vMeppW) | []() | [😎](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C07_%EB%8B%A4%20%EC%93%B4%20%EA%B0%9D%EC%B2%B4%20%EC%B0%B8%EC%A1%B0%EB%A5%BC%20%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md) | []() |
 | 03/07 | 08. finalizer와 cleaner 사용을 피하라 | [🧐](https://bit.ly/3HPy62J) | []() | [😎](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C08_finalizer%EC%99%80%20cleaner%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md) | []() |
 | 03/07 | 09. try-finally 보다는 try-with-resources를 사용하라 | [🟢](https://bit.ly/34kGd9G) | []() | [😎](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C09_try-finally%EB%B3%B4%EB%8B%A4%EB%8A%94%20try-with-resources%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md) | []() |
+| 03/08 | 10. equals는 일반 규약을 지켜 재정의하라 | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
+| 03/08 | 11. equals를 재정의하려거든 hashCode도 재정의하라 | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
+| 03/08 | 12. toString을 항상 재정의하라 | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
 
 <!--| Date | Item | [영환]() | [일권]() | [주희]() | [수혁]() |-->
 
