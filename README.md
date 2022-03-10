@@ -4,7 +4,7 @@
 
 - Effective Java 서적을 읽고 정리한 내용 업로드
 - 매일 아이템 3개씩 학습하기
-- 네이밍 규칙 : ex) 아이템02. 생성자 대신 정적 팩터리 메서드를 고려하라\_이름
+- 네이밍 규칙 : ex) 아이템02_생성자 대신 정적 팩터리 메서드를 고려하라_이름
 
 <br>
 
@@ -12,19 +12,30 @@
 
 |       | 아이템                                                        | 김영환 | 유일권 | 최주희 | 모수혁 |
 | :---- | ----------------------------------------------------------- | :----: | :----: | :----: | :----: |
-| 03/03 | 01.생성자 대신 정적 팩터리 메서드를 고려하라          |    [🟡](https://bit.ly/3HOlaKk)    |    [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/8ce64b1a21facddd674003a54ad29f9ccb990d8e/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C01_%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC_%EC%9C%A0%EC%9D%BC%EA%B6%8C.md) |    [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C01_%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md) | [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C01_%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC_%EB%AA%A8%EC%88%98%ED%98%81.md)   |
-| 03/03 | 02.생성자에 매개변수가 많다면 빌더를 고려하라         |    [🟡](https://bit.ly/3vFpCJ4)    |    [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/8ce64b1a21facddd674003a54ad29f9ccb990d8e/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C02_%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80%20%EB%A7%8E%EB%8B%A4%EB%A9%B4%20%EB%B9%8C%EB%8D%94%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC_%EC%9C%A0%EC%9D%BC%EA%B6%8C.md) |    [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C02_%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80%20%EB%A7%8E%EB%8B%A4%EB%A9%B4%20%EB%B9%8C%EB%8D%94%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md)  |    |
-| 03/03 | 03.private 생성자나 열거 타입으로 싱글턴임을 보증하라 |    [🟡](https://bit.ly/3CmCyEV)    |    [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/8ce64b1a21facddd674003a54ad29f9ccb990d8e/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C03_private%20%EC%83%9D%EC%84%B1%EC%9E%90%EB%82%98%20%EC%97%B4%EA%B1%B0%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%20%EC%8B%B1%EA%B8%80%ED%84%B4%EC%9E%84%EC%9D%84%20%EB%B3%B4%EC%A6%9D%ED%95%98%EB%9D%BC_%EC%9C%A0%EC%9D%BC%EA%B6%8C.md) |     [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C03_private%20%EC%83%9D%EC%84%B1%EC%9E%90%EB%82%98%20%EC%97%B4%EA%B1%B0%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%20%EC%8B%B1%EA%B8%80%ED%84%B4%EC%9E%84%EC%9D%84%20%EB%B3%B4%EC%A6%9D%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md)   |     |
-| 03/04 | 04. 인스턴스화를 막으려거든 private 생성자를 사용하라 | [🟡](https://bit.ly/3KnE5xn)  |    [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/b6ad2cc03e97999b8e379cd03ee88caa874eca36/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C04_%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%ED%99%94%EB%A5%BC%20%EB%A7%89%EC%9C%BC%EB%A0%A4%EA%B1%B0%EB%93%A0%20private%20%EC%83%9D%EC%84%B1%EC%9E%90%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC_%EC%9C%A0%EC%9D%BC%EA%B6%8C.md)    |   [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C04_%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%ED%99%94%EB%A5%BC%20%EB%A7%89%EC%9C%BC%EB%A0%A4%EA%B1%B0%EB%93%A0%20private%20%EC%83%9D%EC%84%B1%EC%9E%90%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md)  |     |
-| 03/04 | 05. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 | [🟡](https://bit.ly/3pLL9vY)  |    [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/b6ad2cc03e97999b8e379cd03ee88caa874eca36/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C05_%EC%9E%90%EC%9B%90%EC%9D%84%20%EC%A7%81%EC%A0%91%20%EB%AA%85%EC%8B%9C%ED%95%98%EC%A7%80%20%EB%A7%90%EA%B3%A0%20%EC%9D%98%EC%A1%B4%20%EA%B0%9D%EC%B2%B4%20%EC%A3%BC%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC_%EC%9C%A0%EC%9D%BC%EA%B6%8C.md)    |   [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C05_%EC%9E%90%EC%9B%90%EC%9D%84%20%EC%A7%81%EC%A0%91%20%EB%AA%85%EC%8B%9C%ED%95%98%EC%A7%80%20%EB%A7%90%EA%B3%A0%20%EC%9D%98%EC%A1%B4%20%EA%B0%9D%EC%B2%B4%20%EC%A3%BC%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md)  |     |
-| 03/04 | 06. 불필요한 객체 생성을 피하라 | [🟡](https://bit.ly/35CJgL5)  |    [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/b6ad2cc03e97999b8e379cd03ee88caa874eca36/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C06_%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC_%EC%9C%A0%EC%9D%BC%EA%B6%8C.md)    |   [🟡](https://github.com/LuckySF007/EffectiveJavaStudy/blob/master/02%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C06_%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC_%EC%B5%9C%EC%A3%BC%ED%9D%AC.md)  |     |
-| 03/07 | 07. 다 쓴 객체 참조를 해제하라 | []() | []() | []() | []() |
-| 03/07 | 08. finalizer와 cleaner 사용을 피하라 | []() | []() | []() | []() |
-| 03/07 | 09. try-finally 보다는 try-with-resources를 사용하라 | []() | []() | []() | []() |
+| 03/03 | 01.생성자 대신 정적 팩터리 메서드를 고려하라          |    [🟡](https://bit.ly/3HOlaKk)    |    [🟡](https://goo.su/GmfFx) |    [🟡](https://han.gl/OfnjM) | [🟡](https://han.gl/jwUTb)   |
+| 03/03 | 02.생성자에 매개변수가 많다면 빌더를 고려하라         |    [🟡](https://bit.ly/3vFpCJ4)    |    [🟡](https://han.gl/hdteQ) |    [🟡](https://han.gl/cIMUI)  | [🟡](https://han.gl/mLuum)   |
+| 03/03 | 03.private 생성자나 열거 타입으로 싱글턴임을 보증하라 |    [🟡](https://bit.ly/3CmCyEV)    |    [🟡](https://han.gl/eJtzd) |     [🟡](https://han.gl/vKBOA)   |     |
+| 03/04 | 04. 인스턴스화를 막으려거든 private 생성자를 사용하라 | [🟡](https://bit.ly/3KnE5xn)  |    [🟡](https://han.gl/FWoHs)    |   [🟡](https://han.gl/fxLdK)  |     |
+| 03/04 | 05. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 | [🟡](https://bit.ly/3pLL9vY)  |    [🟡](https://han.gl/ZjOsO)    |   [🟡](https://han.gl/jfAWu)  |     |
+| 03/04 | 06. 불필요한 객체 생성을 피하라 | [🟡](https://bit.ly/35CJgL5)  |    [🟡](https://han.gl/ZlwMM)    |   [🟡](https://han.gl/CLdPW)  |     |
+| 03/07 | 07. 다 쓴 객체 참조를 해제하라 | [😀](https://bit.ly/3vMeppW) | [😬](https://han.gl/bBdOK) | [😎](https://han.gl/wLhOP) | []() |
+| 03/07 | 08. finalizer와 cleaner 사용을 피하라 | [🧐](https://bit.ly/3HPy62J) | [😬](https://han.gl/fIIxV) | [😎](https://han.gl/caXuF) | []() |
+| 03/07 | 09. try-finally 보다는 try-with-resources를 사용하라 | [🟢](https://bit.ly/34kGd9G) | [😬](https://han.gl/UalST) | [😎](https://han.gl/xpblX) | []() |
+| 03/08 | 10. equals는 일반 규약을 지켜 재정의하라 | [🕑](https://bit.ly/3J1F9GM) | [🥱](https://han.gl/VsiER) | [😊](https://han.gl/Wsjhw) | [<!--수혁-->]() |
+| 03/08 | 11. equals를 재정의하려거든 hashCode도 재정의하라 | [🔵](https://bit.ly/367DP6V) | [🥱](https://han.gl/qzsuB) | [😄](https://han.gl/wITgj) | [<!--수혁-->]() |
+| 03/08 | 12. toString을 항상 재정의하라 | [😜](https://bit.ly/3J01Yuu) | [🥱](https://han.gl/Dvane) | [🤓](https://han.gl/uauMY) | [<!--수혁-->]() |
+| 03/10 | 13. clone 재정의는 주의해서 진행하라 | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
+| 03/10 | 14. Comparable을 구현할지 고려하라 | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
+| 03/10 | 15. 클래스와 멤버의 접근 권한을 최소화하라 | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
+| 03/11 | 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라 | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
+| 03/11 | 17. 변경 가능성을 최소화하라 | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
+| 03/11 | 18. 상속보다는 컴포지션을 사용하라 | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
+| Date | No. Title(Temp) | [<!--영환-->]() | [<!--일권-->]() | [<!--주희-->]() | [<!--수혁-->]() |
 
 <!--| Date | Item | [영환]() | [일권]() | [주희]() | [수혁]() |-->
 
 <!-- https://bitly.com/ -->
+<!-- https://han.gl/ -->
 
 <!-- 위 링크를 통해 하이퍼링크의 길이를 줄일 수 있습니다. -->
 
