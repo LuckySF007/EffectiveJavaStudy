@@ -14,8 +14,8 @@
 | :---- | ----------------------------------------------------------- | :----: | :----: | :----: | :----: |
 | 03/03 | 01.생성자 대신 정적 팩터리 메서드를 고려하라          |    [🟡](https://bit.ly/3HOlaKk)    |    [🟡](https://goo.su/GmfFx) |    [🟡](https://han.gl/OfnjM) | [🟡](https://han.gl/jwUTb)   |
 | 03/03 | 02.생성자에 매개변수가 많다면 빌더를 고려하라         |    [🟡](https://bit.ly/3vFpCJ4)    |    [🟡](https://han.gl/hdteQ) |    [🟡](https://han.gl/cIMUI)  | [🟡](https://han.gl/mLuum)   |
-| 03/03 | 03.private 생성자나 열거 타입으로 싱글턴임을 보증하라 |    [🟡](https://bit.ly/3CmCyEV)    |    [🟡](https://han.gl/eJtzd) |     [🟡](https://han.gl/vKBOA)   |     |
-| 03/04 | 04. 인스턴스화를 막으려거든 private 생성자를 사용하라 | [🟡](https://bit.ly/3KnE5xn)  |    [🟡](https://han.gl/FWoHs)    |   [🟡](https://han.gl/fxLdK)  |     |
+| 03/03 | 03.private 생성자나 열거 타입으로 싱글턴임을 보증하라 |    [🟡](https://bit.ly/3CmCyEV)    |    [🟡](https://han.gl/eJtzd) |     [🟡](https://han.gl/vKBOA)   |  [🟡](https://han.gl/NjqNg)   |
+| 03/04 | 04. 인스턴스화를 막으려거든 private 생성자를 사용하라 | [🟡](https://bit.ly/3KnE5xn)  |    [🟡](https://han.gl/FWoHs)    |   [🟡](https://han.gl/fxLdK)  |  [🟡](https://han.gl/tUoPf)   |
 | 03/04 | 05. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 | [🟡](https://bit.ly/3pLL9vY)  |    [🟡](https://han.gl/ZjOsO)    |   [🟡](https://han.gl/jfAWu)  |     |
 | 03/04 | 06. 불필요한 객체 생성을 피하라 | [🟡](https://bit.ly/35CJgL5)  |    [🟡](https://han.gl/ZlwMM)    |   [🟡](https://han.gl/CLdPW)  |     |
 | 03/07 | 07. 다 쓴 객체 참조를 해제하라 | [😀](https://bit.ly/3vMeppW) | [😬](https://han.gl/bBdOK) | [😎](https://han.gl/wLhOP) | []() |
